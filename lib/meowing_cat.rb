@@ -12,6 +12,7 @@ def name=(name)
   end
 end
 
+def
   attr_accessor :name
 end
 
