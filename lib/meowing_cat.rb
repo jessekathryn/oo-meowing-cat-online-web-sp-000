@@ -5,7 +5,6 @@ maru.name = "Maru"
 
 class Cat
   attr_accessor :name
- 
 end
 
 maru.name
