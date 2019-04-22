@@ -11,5 +11,6 @@ end
 
 class Cat
   attr_accessor :name
-puts "meow"
 end
+
+def meow
