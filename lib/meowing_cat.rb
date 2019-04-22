@@ -3,7 +3,11 @@ Class cat
 maru = Cat.new
 maru.name = "Maru"
 
-def  
+def class Person
+  attr_accessor :name
+ 
+end
+
 maru.name
  
 maru.meow
