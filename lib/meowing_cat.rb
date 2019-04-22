@@ -12,7 +12,7 @@ def name=(name)
   end
 end
 
-def
+class Cat
   attr_accessor :name
 end
 
