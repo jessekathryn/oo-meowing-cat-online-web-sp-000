@@ -1,8 +1,5 @@
 class Cat
 
-maru = Cat.new
-maru.name = "Maru"
-
 def name=(name)
     @name = name
   end
