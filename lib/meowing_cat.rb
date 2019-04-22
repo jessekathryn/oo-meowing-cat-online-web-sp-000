@@ -1,9 +1,9 @@
-Class cat
+class Cat
 
 maru = Cat.new
 maru.name = "Maru"
 
-def class Person
+class Cat
   attr_accessor :name
  
 end
